@@ -1,0 +1,3 @@
+-the two py files need to be inside the dags folder in the airflow folder created in the EC2 instance.
+-the dags folder need need to be created manually.
+-copy the contents and paste in files creating new files.

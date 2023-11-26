@@ -1,0 +1,4 @@
+-the two py files need to be inside the dags folder in the airflow folder
+-EC2 connection need to be created through the Admin>Connection
+-only key and Id are needed,  rest of the fields can be blank
+-file is saved locally then saved to S3 using S3 hook
